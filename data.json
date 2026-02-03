@@ -1,0 +1,56 @@
+{
+  "name": "Toiture Van Quaille",
+  "id1": "Chi%C3%A8vres",
+  "id2": "L17559212",
+  "slug": "Toiture+Van+Quaille",
+  "url": "https://www.goudengids.be/bedrijf/Chi%C3%A8vres/L17559212/Toiture+Van+Quaille/",
+  "email": "andy-7941@live.be",
+  "phone": "+32493854381",
+  "internationalPhone": "+32493854381",
+  "address": "Rue de la Biderie 5",
+  "postalCode": "7950",
+  "city": "Grosage (Chièvres)",
+  "vatNumber": "BE0793298464",
+  "foundingDate": "2022-11-07",
+  "employeeCount": "0 of onbekend",
+  "companyStatus": "Actieve dossier",
+  "kboUrl": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=nl&ondernemingsnummer=0793298464",
+  "categories": [
+    "Dakwerkers",
+    "Chièvres"
+  ],
+  "openingHours": {
+    "monday": "8:30 - 17:00",
+    "tuesday": "8:30 - 17:00",
+    "wednesday": "8:30 - 17:00",
+    "thursday": "8:30 - 17:00",
+    "friday": "8:30 - 17:00",
+    "saturday": "Gesloten",
+    "sunday": "Gesloten"
+  },
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/profile.php?id=100057554005128"
+  },
+  "headerImage": "https://adserver.fcrmedia.com/www/images/43086a0c7888beb78a8318d1aaf89a65.png",
+  "galleryImages": [
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/466/062/466062586_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/464/153/464153179_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/434/228/434228051_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/460/747/460747963_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/434/229/434229275_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/460/360/460360252_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/457/724/457724344_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/457/725/457725169_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/455/940/455940448_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/434/145/434145170_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/434/228/434228011_coverimage.webp"
+  ],
+  "searchKeyword": "dakwerkers",
+  "scrapedAt": "2026-01-21T14:27:18.497Z",
+  "region": "wallonia",
+  "preferredLanguage": "francais",
+  "referenceUrl": "https://www.goudengids.be/bedrijf/Chi%C3%A8vres/L17559212/Toiture+Van+Quaille/",
+  "templateId": "G",
+  "seed": 789611143,
+  "generatedAt": "2026-01-24T21:50:16.119Z"
+}
